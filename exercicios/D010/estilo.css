@@ -1,0 +1,45 @@
+body
+{
+    background-color:#84E1AD;
+    text-align: justify;
+}
+img
+{
+    width: 100%;
+}
+h1#titulo
+{
+    text-align: center; 
+}
+header#cabeça
+{
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    margin: 0;
+    background-image: linear-gradient(to bottom, #36C074, #1A5C38);
+}
+nav
+{
+    padding: 3px;
+}
+
+main
+{
+    padding: 10px;
+    background-color: white;
+    margin: 50px;
+}
+
+main > p
+{
+    text-align: justify;
+}
+h2#titulofinal
+{
+    background-color: #1A5C38;
+}
+section#infomais
+{
+    background-color:#94e30bb2 ;
+}
